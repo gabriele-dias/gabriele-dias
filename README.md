@@ -12,6 +12,7 @@
 - 👩‍💻 Sou **curiosa por tecnologia** e movida pela vontade de entender **como cada parte da computação funciona** — desde o hardware até a inteligência dos algoritmos.  
 - 💡 Escolhi **Ciência da Computação** porque adoro explorar, aprender e criar soluções que transformam ideias em resultados reais.  
 - 📊 Tenho uma grande paixão por **Análise e Engenharia de Dados**, unindo lógica, estatística e criatividade para extrair valor das informações.  
+- 🤖 Tenho **alta curiosidade em Machine Learning e automatização de processos**, buscando entender como aplicar a inteligência artificial para otimizar tarefas e gerar insights.  
 - 💻 Gosto de atuar tanto no **desenvolvimento Full Stack**, quanto no **lado analítico e técnico da computação**, equilibrando a prática com a teoria.  
 - ⚙️ Sou **proativa**, gosto de desafios e me adapto facilmente a novos ambientes e ferramentas — especialmente em **sistemas operacionais Linux**.  
 - 🚀 Busco evoluir constantemente, aplicando meu conhecimento e curiosidade para **crescer junto com a empresa**.  
@@ -27,13 +28,14 @@
 
 #### 🗄️ Banco de Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />  
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 #### 📊 Ferramentas de Análise e Dados
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Google_Colaboratory_logo.svg" height="40" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
@@ -59,7 +61,7 @@
 - 💻 Git e GitHub — Alura  
 - ☁️ **AWS Emerging Talent – Women Program:** Introdução aos principais serviços e fundamentos da nuvem AWS  
   - 🎖️ **AWS Learning Badge:** reconhecimento oficial emitido pela AWS, comprovando conclusão de trilhas de aprendizado e aquisição de competências em nuvem  
-  - ![AWS](https://img.shields.io/badge/AWS%20Cloud-F79400?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - <img src="https://img.shields.io/badge/AWS%20Cloud-F79400?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 - 👩‍💻 **Elas+Tech:** programa de capacitação e incentivo à presença feminina na tecnologia
 
 ---
@@ -68,8 +70,9 @@
 
 - 🌐 **Engenharia de Dados**  
 - 📊 **Análise de Dados**  
-- ⚙️ **Full Stack Development**  
-- 🧠 **Ciência de Dados e Inteligência Artificial**  
+- 🧠 **Machine Learning e Inteligência Artificial**  
+- ⚙️ **Automatização de Processos**  
+- 💻 **Full Stack Development**  
 - 🧩 **Arquitetura de Computadores e Sistemas Operacionais**
 
 ---
