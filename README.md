@@ -96,4 +96,4 @@
 
 ---
 
-✨ *"A curiosidade é o que move a inovação — e é ela que me guia todos os dias."*
+✨ *"A curiosidade é o que move a inovação, é ela que me guia todos os dias."*
