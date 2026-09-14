@@ -21,7 +21,7 @@
 ---
 
 ## 📊 Métricas de Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-dias&layout=compact&theme=radical)
 
 ---
 
