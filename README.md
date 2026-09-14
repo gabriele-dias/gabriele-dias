@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, PySpark, Java, Django, Full Stack  
 - **Cloud:** AWS Glue, S3, Redshift, Lambda, EMR  
-- **CI/CD:** GitHub Actions, Jenkins, Docker  
+- **CI/CD:** GitHub Actions, Docker  
 - **Banco de Dados:** PostgreSQL, MySQL, NoSQL  
 
 ---
